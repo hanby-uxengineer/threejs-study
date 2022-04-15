@@ -1,3 +1,3 @@
 # Three.js Journey
 
-![img] (./img.png)
+![03](./img/03.png)
